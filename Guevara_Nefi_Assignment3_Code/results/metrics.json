@@ -1,0 +1,7 @@
+{
+    "baseline_rmse": 3.8598614676611684,
+    "linear_regression_rmse": 4.025404032711815,
+    "linear_regression_r2": -0.09376560561235214,
+    "random_forest_rmse": 4.892644423350824,
+    "random_forest_r2": -0.615818649070299
+}
